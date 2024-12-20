@@ -96,7 +96,7 @@ Also, you can check our [GitHub Projects board](https://github.com/orgs/zowe/pro
 degfregrthytjhg
 For more information on how to contribute, see [Contributor Guidance](https://github.com/zowe/zowe-explorer-vscode/wiki/Contributor-Guidance).
 
-## External Links
+## External Linkssdfdsafdasd
 dsfdgfdhrghgfhg
 Check out more about using Zowe Explorer and Zowe on [Medium](https://medium.com/zowe) and [Awesome Zowe](https://github.com/tucker01/awesome-zowe).
 dfdsf
