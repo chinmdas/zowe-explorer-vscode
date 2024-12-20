@@ -97,7 +97,7 @@ degfregrthytjhg
 For more information on how to contribute, see [Contributor Guidance](https://github.com/zowe/zowe-explorer-vscode/wiki/Contributor-Guidance).
 
 ## External Linkssdfdsafdasd
-dsfdgfdhrghgfhg
+dsfdgfdhrghgfhgxcdsfsdf
 Check out more about using Zowe Explorer and Zowe on [Medium](https://medium.com/zowe) and [Awesome Zowe](https://github.com/tucker01/awesome-zowe).
 dfdsf
 ## Project Structure and Governance
