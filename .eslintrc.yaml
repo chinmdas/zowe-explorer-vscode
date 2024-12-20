@@ -15,6 +15,7 @@ ignorePatterns:
     "**/*wdio.conf.ts",
     "**/features/",
     "samples/__integration__/",
+    "dfjdnf",
     "**/out",
     "**/results",
     "**/src/webviews",

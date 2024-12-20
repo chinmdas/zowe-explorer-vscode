@@ -93,7 +93,7 @@ Check the current [open issues](https://github.com/zowe/zowe-explorer-vscode/iss
 To report a bug or request a specific feature, please open a GitHub issue using the [appropriate template](https://github.com/zowe/zowe-explorer-vscode/issues/new/choose). Feature requests will be added to our backlog after it receives 10 upvotes from the community.
 
 Also, you can check our [GitHub Projects board](https://github.com/orgs/zowe/projects/15) for a more convenient view of issues, which are organized by priority and work-in-progress status.
-
+degfregrthytjhg
 For more information on how to contribute, see [Contributor Guidance](https://github.com/zowe/zowe-explorer-vscode/wiki/Contributor-Guidance).
 
 ## External Links
@@ -101,7 +101,7 @@ For more information on how to contribute, see [Contributor Guidance](https://gi
 Check out more about using Zowe Explorer and Zowe on [Medium](https://medium.com/zowe) and [Awesome Zowe](https://github.com/tucker01/awesome-zowe).
 
 ## Project Structure and Governance
-dfdsfdsfegfhdg
+dfdsfdsfegfhdgdsfdgdfg
 Zowe Explorer is a component of the Zowe Open Mainframe Project, part of the Linux Foundation.
 
 To learn more about how Zowe is structured and governed, see the [Technical Steering Committee Structure anddwd Governance documentation](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/tsc-governance.md).xcvdcbfgnjsdcddsfsdffgdcs
