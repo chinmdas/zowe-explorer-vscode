@@ -17,6 +17,6 @@ The following information is critical to working with the code, running/writing/
 
 ## Contribution Guidelines Specific to the VSC Extension for Zowe
 
-The following guidelines apply specifically to the extension:
+The following guidelines apply specifically to the extension:sdfsdgdfythgfdfhgs
 
 None at this time.
