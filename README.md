@@ -105,3 +105,4 @@ dfdsfdsfegfhdgdsfdgdfg
 Zowe Explorer is a component of the Zowe Open Mainframe Project, part of the Linux Foundation.
 
 To learn more about how Zowe is structured and governed, see the [Technical Steering Committee Structure anddwd Governance documentation](https://github.com/zowe/community/blob/master/Technical-Steering-Committee/tsc-governance.md).xcvdcbfgnjsdcddsfsdffgdcs
+ghftyf
